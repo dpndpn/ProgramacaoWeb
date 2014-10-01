@@ -1,0 +1,185 @@
+
+*{
+	margin: 0;
+	padding: 0;
+}
+input{
+	padding: 5px;
+	color: blue;
+	font-weight: bold;
+}
+p {
+	text-align: left;
+}
+.distancia{
+	padding-left: 200px;
+
+}
+.bt{
+	margin-left: 50px;
+}
+textarea{
+	padding: 5px;
+	color: blue;
+	font-weight: bold;
+	margin-left: 50px;
+}
+
+body {
+	background: #349C44;
+	font-family: sans-serif;
+	color: #8A8985;
+}
+
+a {
+	text-decoration: none;
+	color: #5BA689;
+}
+.clear{
+	clear: both;
+}
+
+.alignleft {
+	float: left;
+	margin-right: 30px;
+}
+.alignright{
+	float: right;
+}
+#paginaNoticia .container img{
+	 width: 1200px;
+	 height: 400px;
+}
+.textoNoticia p img{
+	width: 500px;
+	height: 240px;
+}
+#conteudo {
+	overflow: hidden;
+	background: #F1F2E9;
+}
+
+.container {
+	width: 1200px;
+	margin: 0px auto;
+}
+
+#banner-fundo {
+	overflow: hidden;
+	height: 600px;
+}
+
+#banner {
+	width: 960px;
+	height: 200px;
+	margin: 0 auto;
+	padding: 0px 20px;
+}
+
+
+#logo {
+	overflow: hidden;
+	height: 200px;
+	line-height: 200px;
+	font-family: arial;
+
+}
+
+#logo h1{
+	font-size: 100px;
+	text-align: center;
+}
+#logo h1 a{
+	color: #349C44;
+	font-family:sans-serif;	
+}
+#menu {
+	overflow: hidden;
+	height: 60px;
+	background: #000000;
+}
+
+#menu {
+	overflow: hidden;
+	height: 60px;
+	font-family: sans-serif;
+	font-weight: bold;
+}
+
+#menu ul {
+	list-style: none;
+	text-align: center;
+}
+
+#menu li {
+	display: inline-block;
+}
+
+#menu a {
+	display: block;
+	padding: 0px 30px;
+	line-height: 60px;
+	text-decoration: none;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 14px;
+	color: #FFFFFF;
+}
+
+#menu a:hover, #menu .menulink a {
+	background: #349C44;
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+#paginaNoticia {
+	overflow: hidden;
+	padding: 30px 0px;
+	background: #349C44;
+}
+#pagina{
+	overflow: hidden;
+	padding: 40px 20px 20px 20px;
+}
+
+#conteudoNoticia {
+	float: left;
+	width: 1100px;
+	margin: 0px auto;
+}
+
+.titulo {
+	margin: 0px 0px 30px 0px;
+	padding: 0px 0px 10px 0px;
+	border-bottom: 3px solid #E0E1D6;
+	font-size: 26px;
+	color: #373737;
+	text-align: center;
+}
+
+.noticia .titulo a {
+	color: #373737;
+}
+
+.noticia {
+	overflow: hidden;
+}
+
+.noticia .textoNoticia {
+	font-size: 16px;
+	padding: 0px 0px 20px 0px;
+	padding-bottom: 20px;
+	text-align: justify;
+}
+
+#rodape {
+	height: 50px;
+	margin: 20px auto;
+}
+
+#rodape p {
+	padding-top: 10px;
+	text-align: center;
+	color: #D0FFD7;
+}
+
